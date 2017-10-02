@@ -27,12 +27,12 @@ compile and run place_main.c
 # Usage:
 You can register in this software to get updates of fresh selection criteria for companies
 
-# Credits:  
-        (https://github.com/mittalsaksham07)[Saksham Mittal] 
-        (https://github.com/eleketra)[Ankita] 
-        (https://github.com/bishtpriya98)[Priya Bisht] 
-        (https://github.com/Patwalishita)[Ishita Patwal] 
-        (https://github.com/Atiksha)[Atiksha Pundir] 
-        (https://github.com/sauharddobhal)[Sauhard Dobhal] 
+Credits:  
+        [Saksham Mittal](https://github.com/mittalsaksham07)
+        [Ankita](https://github.com/eleketra) 
+        [Priya Bisht](https://github.com/bishtpriya98)
+        [Ishita Patwal](https://github.com/Patwalishita)
+        [Atiksha Pundir](https://github.com/Atiksha)
+        [Sauhard Dobhal](https://github.com/sauharddobhal)
 
 
