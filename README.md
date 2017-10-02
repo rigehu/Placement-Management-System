@@ -1,7 +1,4 @@
-
-## pms
-
-# Project name: 
+# Project Name: 
 Placement Management System
 C based placement management system
 
