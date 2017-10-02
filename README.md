@@ -32,4 +32,4 @@ Credits:
         [Atiksha Pundir](https://github.com/Atiksha)
         [Sauhard Dobhal](https://github.com/sauharddobhal)
 
-
+# Note: This project is developed in Windows platform.
