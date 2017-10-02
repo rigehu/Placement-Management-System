@@ -28,10 +28,10 @@ compile and run place_main.c
 You can register in this software to get updates of fresh selection criteria for companies
 
 # Credits:  
-        @mittalsaksham07
-        @eleketra
-        @bishtpriya98
-        @Patwalishita
-        @Atiksha
-        @sauharddobhal
+        [Saksham Mittal] (https://github.com/mittalsaksham07)
+        [Ankita] (https://github.com/eleketra)
+        [Priya Bisht] (https://github.com/bishtpriya98)
+        [Ishita Patwal (https://github.com/Patwalishita)
+        [Atiksha Pundir] (https://github.com/Atiksha)
+        [Sauhard Dobhal] (https://github.com/sauharddobhal)
 
