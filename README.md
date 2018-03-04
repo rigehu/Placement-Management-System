@@ -1,5 +1,4 @@
 # Project Name: 
-Placement Management System
 Placement Management System using C
 
 # Description:
