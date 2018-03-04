@@ -1,6 +1,6 @@
 # Project Name: 
 Placement Management System
-C based placement management system
+Placement Management System using C
 
 # Description:
 This software register students and allot them unique id and password for logging in.</r>
